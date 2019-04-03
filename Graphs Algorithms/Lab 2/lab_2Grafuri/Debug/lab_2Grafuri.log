@@ -1,0 +1,6 @@
+﻿  lab2_2.cpp
+  lab2_3.cpp
+c:\users\crist\source\repos\lab_2grafuri\lab_2grafuri\lab2_3.cpp(26): warning C4018: '<=': signed/unsigned mismatch
+c:\users\crist\source\repos\lab_2grafuri\lab_2grafuri\lab2_3.cpp(19): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+  lab_2Grafuri.vcxproj -> C:\Users\crist\source\repos\lab_2Grafuri\Debug\lab_2Grafuri.exe
