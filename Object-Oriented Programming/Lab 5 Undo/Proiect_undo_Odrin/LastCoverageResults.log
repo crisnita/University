@@ -1,0 +1,21 @@
+[2019-03-29 09:33:58] [info] Start Program:
+Path:"C:\Users\crist\source\repos\Proiect_undo_Odrin\Debug\Proiect_undo_Odrin.exe"
+Arguments:
+Working directory: "C:\Users\crist\source\repos\Proiect_undo_Odrin\Proiect_undo_Odrin\"
+Modules: Selected: C:\Users\crist\source\repos\Proiect_undo_Odrin\Debug\Proiect_undo_Odrin.exe Excluded: 
+Sources: Selected: C:\Users\crist\source\repos\Proiect_undo_Odrin\Proiect_undo_Odrin Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\crist\AppData\Local\Temp\qewcftoj.w2a 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-03-29 09:33:58] [info] Module: C:\Users\crist\source\repos\Proiect_undo_Odrin\Debug\Proiect_undo_Odrin.exe is selected because it matches selected pattern: C:\Users\crist\source\repos\Proiect_undo_Odrin\Debug\Proiect_undo_Odrin.exe
+[2019-03-29 09:34:00] [info] ----------------------------------------------------
+[2019-03-29 09:34:00] [info] Coverage binary generated in file: C:\Users\crist\AppData\Local\Temp\qewcftoj.w2a
+[2019-03-29 09:34:00] [info] ----------------------------------------------------
