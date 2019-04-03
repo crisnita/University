@@ -1,0 +1,21 @@
+[2019-03-28 15:13:55] [info] Start Program:
+Path:"C:\Users\crist\source\repos\Lab2-4\Debug\Lab2-4.exe"
+Arguments:
+Working directory: "C:\Users\crist\source\repos\Lab2-4\Lab2-4\"
+Modules: Selected: C:\Users\crist\source\repos\Lab2-4\Debug\Lab2-4.exe Excluded: 
+Sources: Selected: C:\Users\crist\source\repos\Lab2-4\Lab2-4 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\crist\AppData\Local\Temp\b4t0g1xm.jge 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-03-28 15:13:55] [info] Module: C:\Users\crist\source\repos\Lab2-4\Debug\Lab2-4.exe is selected because it matches selected pattern: C:\Users\crist\source\repos\Lab2-4\Debug\Lab2-4.exe
+[2019-03-28 15:13:57] [info] ----------------------------------------------------
+[2019-03-28 15:13:57] [info] Coverage binary generated in file: C:\Users\crist\AppData\Local\Temp\b4t0g1xm.jge
+[2019-03-28 15:13:57] [info] ----------------------------------------------------
