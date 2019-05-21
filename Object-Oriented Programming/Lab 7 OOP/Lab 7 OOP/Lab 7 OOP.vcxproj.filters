@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="service">
+      <UniqueIdentifier>{00811cfc-6e11-4214-9115-32c0a9579969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="repository">
+      <UniqueIdentifier>{c028c95c-c33a-478e-ab45-7f4c3ba7e85a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests">
+      <UniqueIdentifier>{5210b169-bc26-4458-b92c-a2550ec14727}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ui">
+      <UniqueIdentifier>{40bf0328-13c2-4ebc-9b76-6961e98a8dee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="validator">
+      <UniqueIdentifier>{317c94a1-0eb6-4af5-a16d-c3f60ffc04aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="domain">
+      <UniqueIdentifier>{ba68c43c-d31f-4f52-92c8-dfe8600e9f0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="list">
+      <UniqueIdentifier>{8af4407c-1310-4ec4-ab89-69c70ef44075}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="console.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="movies.cpp">
+      <Filter>domain</Filter>
+    </ClCompile>
+    <ClCompile Include="validator.cpp">
+      <Filter>validator</Filter>
+    </ClCompile>
+    <ClCompile Include="repository.cpp">
+      <Filter>repository</Filter>
+    </ClCompile>
+    <ClCompile Include="service.cpp">
+      <Filter>service</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="console.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+    <ClInclude Include="movies.h">
+      <Filter>domain</Filter>
+    </ClInclude>
+    <ClInclude Include="validator.h">
+      <Filter>validator</Filter>
+    </ClInclude>
+    <ClInclude Include="repository.h">
+      <Filter>repository</Filter>
+    </ClInclude>
+    <ClInclude Include="service.h">
+      <Filter>service</Filter>
+    </ClInclude>
+    <ClInclude Include="list.h">
+      <Filter>list</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

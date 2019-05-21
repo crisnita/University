@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ui">
+      <UniqueIdentifier>{2761f224-2a12-4b13-86c3-5f6d6972d6aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="service">
+      <UniqueIdentifier>{e701e209-025b-4196-ba39-c213ae19afe5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="validator">
+      <UniqueIdentifier>{ba066d2d-2cc2-4f38-b2a2-9d5b7df151b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="repository">
+      <UniqueIdentifier>{98d1d669-4eaf-4b35-b442-fd2d89c54c72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="domain">
+      <UniqueIdentifier>{0a92c59e-884a-4298-8859-968ae0779752}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests">
+      <UniqueIdentifier>{db727e8b-e00b-451a-9adc-84048987375c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="console.cpp">
+      <Filter>ui</Filter>
+    </ClCompile>
+    <ClCompile Include="service.cpp">
+      <Filter>service</Filter>
+    </ClCompile>
+    <ClCompile Include="repo.cpp">
+      <Filter>repository</Filter>
+    </ClCompile>
+    <ClCompile Include="validator.cpp">
+      <Filter>validator</Filter>
+    </ClCompile>
+    <ClCompile Include="movies.cpp">
+      <Filter>domain</Filter>
+    </ClCompile>
+    <ClCompile Include="tests.cpp">
+      <Filter>tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="console.h">
+      <Filter>ui</Filter>
+    </ClInclude>
+    <ClInclude Include="service.h">
+      <Filter>service</Filter>
+    </ClInclude>
+    <ClInclude Include="validator.h">
+      <Filter>validator</Filter>
+    </ClInclude>
+    <ClInclude Include="repo.h">
+      <Filter>repository</Filter>
+    </ClInclude>
+    <ClInclude Include="movies.h">
+      <Filter>domain</Filter>
+    </ClInclude>
+    <ClInclude Include="tests.h">
+      <Filter>tests</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,21 @@
+[2019-05-13 02:53:13] [info] Start Program:
+Path:"C:\Users\crist\source\repos\Lab 6-7\Debug\Lab 6-7.exe"
+Arguments:
+Working directory: "C:\Users\crist\source\repos\Lab 6-7\Lab 6-7\"
+Modules: Selected: C:\Users\crist\source\repos\Lab 6-7\Debug\Lab 6-7.exe Excluded: 
+Sources: Selected: C:\Users\crist\source\repos\Lab 6-7\Lab 6-7 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\crist\AppData\Local\Temp\o34q0pmp.cxr 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2019-05-13 02:53:13] [info] Module: C:\Users\crist\source\repos\Lab 6-7\Debug\Lab 6-7.exe is selected because it matches selected pattern: C:\Users\crist\source\repos\Lab 6-7\Debug\Lab 6-7.exe
+[2019-05-13 02:53:15] [info] ----------------------------------------------------
+[2019-05-13 02:53:15] [info] Coverage binary generated in file: C:\Users\crist\AppData\Local\Temp\o34q0pmp.cxr
+[2019-05-13 02:53:15] [info] ----------------------------------------------------

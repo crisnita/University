@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab 6-7.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  console.cpp
+  main.cpp
+  repo.cpp
+c:\users\crist\source\repos\lab 6-7\lab 6-7\repo.cpp(37): warning C4100: 'actor': unreferenced formal parameter
+c:\users\crist\source\repos\lab 6-7\lab 6-7\repo.cpp(37): warning C4100: 'year': unreferenced formal parameter
+c:\users\crist\source\repos\lab 6-7\lab 6-7\repo.cpp(37): warning C4100: 'genre': unreferenced formal parameter
+  service.cpp
+c:\users\crist\source\repos\lab 6-7\lab 6-7\service.cpp(65): warning C4389: '==': signed/unsigned mismatch
+  tests.cpp
+  Compiling...
+  Generating Code...
+  Lab 6-7.vcxproj -> C:\Users\crist\source\repos\Lab 6-7\Debug\Lab 6 OOP.exe
